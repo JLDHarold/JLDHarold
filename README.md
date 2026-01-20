@@ -6,7 +6,9 @@ I’m a developer with a strong mathematical foundation, focusing on building ef
 - BSc in Computational and Applied Mathematics with Distinction from the University of the Witwatersrand.
 - Currently pursuing Honours in Big Data Analytics.
 
-I work on web development (clean, responsive, minimal designs), optimisation, data-driven projects and academic and applied problem-solving.<br>My current focus is on full-stack web projects through Amicis Innovations, where I am expanding my skills in data analytics and scalable systems.<br>Tech & Tools: Java, JavaScript, Python, HTML, CSS, Git, GitHub, Supabase<br>I enjoy building things that are simple, efficient, and purposeful.
+I work on web development (clean, responsive, minimal designs), optimisation, data-driven projects and academic and applied problem-solving.<br>My current focus is on full-stack web projects through Amicis Innovations, where I am expanding my skills in data analytics and scalable systems.
+
+I enjoy building things that are simple, efficient, and purposeful.
 
 
 ## 🌐 Socials:
